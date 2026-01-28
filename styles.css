@@ -35,7 +35,7 @@ p {
   color: rgb(24, 24, 24);
   line-height: 1.5;
   text-align: justify;
-  font-size: 22px;
+  font-size: 30px;
   font-family: Arial;
 }
 
@@ -83,7 +83,7 @@ button:hover {
 
 a {
   color: blue;
-  font-size: 35px;
+  font-size: 30px;
   text-align: center;
 }
 
@@ -94,5 +94,5 @@ a {
   position: relative;
   bottom: 0;
   width: 100%;
-  p {color: whitesmoke; font-size: 15px; text-align: center;}
+  p {color: whitesmoke; font-size: 22px; text-align: center;}
 }
