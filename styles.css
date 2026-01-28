@@ -35,7 +35,7 @@ p {
   color: rgb(24, 24, 24);
   line-height: 1.5;
   text-align: justify;
-  font-size: 30px;
+  font-size: 40px;
   font-family: Arial;
 }
 
@@ -43,12 +43,12 @@ p {
 h1 {
   color: black;
   text-align: center;
-  font-size: 60px;
+  font-size: 55px;
 }
 
 li {
   color: black;
-  font-size: 25px;
+  font-size: 40px;
   margin-left: 20px;
   margin-right: 20px;
 }
